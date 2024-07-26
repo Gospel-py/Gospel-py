@@ -4,8 +4,7 @@ I'm a data scientist who is passionate about AI and machine learning. I enjoy fi
 
 #### Skills
 - **Programming Languages**: Python, SQL
-- **Data Visualization**: PowerBI
-- **Spreadsheets**: Microsoft Excel, Google Sheets
+- **Data Visualization**: PowerBI, Microsoft Excel, Google Sheets
 - **Machine Learning**: Building models, working with features, and evaluating models
 - **Data Analysis**: Cleaning data, doing statistical analysis, and preprocessing data
 
