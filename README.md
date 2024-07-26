@@ -19,9 +19,6 @@ I love using data and machine learning to solve real-world problems. I'm always 
 
 Feel free to check out my projects and reach out if you'd like to collaborate!
 
----
-
-Does this version work for you?
 
 <!---
 Gospel-py/Gospel-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
