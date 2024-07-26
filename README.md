@@ -1,4 +1,4 @@
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm Gospel 👋
 
 I'm a data scientist who is passionate about AI and machine learning. I enjoy finding new ways to use data to solve problems and create useful solutions.
 
